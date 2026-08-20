@@ -1,0 +1,6 @@
+interface:
+  display_name: "山河导演"
+  short_description: "AI视频前期全流程：剧本、分镜、资产、图片/视频中文提示词"
+  default_prompt: "用 $shanhe-director 为一个15秒国潮护肤广告做前期创作。"
+policy:
+  allow_implicit_invocation: true
